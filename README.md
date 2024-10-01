@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sibtain-iqbal&label=Profile%20views&color=0e75b6&style=flat" alt="sibtain-iqbal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sibtain-iqbal" alt="sibtain-iqbal" /></a> </p>
-
 - 🌱 I’m currently learning **Python |Neural Network | NLP**
 
 - 🤝 I’m looking for help with **Data Scientist**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sibtain-Iqbal](https://github.com/Sibtain-Iqbal)
 
-- 📝 I regularly work On [Data Science](Data Science)
+- 📝 I regularly work On [DataScience](DataScience)
 
 - 💬 Ask me about **React Python**
 
@@ -19,34 +17,14 @@
 
 - ⚡ Fun fact **I am Funny**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/sibtain-iqbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sibtain-iqbal" height="30" width="40" /></a>
-<a href="https://dev.to/sibtain-iqbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sibtain-iqbal" height="30" width="40" /></a>
-<a href="https://twitter.com/sibtainiqbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sibtainiqbal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sibtain-iqbal-252133329/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sibtain-iqbal-252133329/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22371729/sibtain-iqbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22371729/sibtain-iqbal" height="30" width="40" /></a>
-<a href="https://codesandbox.com/sibtain-iqbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="sibtain-iqbal" height="30" width="40" /></a>
-<a href="https://kaggle.com/sibtain iqbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sibtain iqbal" height="30" width="40" /></a>
-<a href="https://fb.com/sibtain ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sibtain ali" height="30" width="40" /></a>
+<a href="https://kaggle.com/sibtainiqbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sibtainiqbal" height="30" width="40" /></a>
 <a href="https://instagram.com/sibtain_ali72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sibtain_ali72" height="30" width="40" /></a>
-<a href="https://dribbble.com/sibtain-iqbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="sibtain-iqbal" height="30" width="40" /></a>
-<a href="https://www.behance.net/sibtain-iqbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="sibtain-iqbal" height="30" width="40" /></a>
-<a href="https://hashnode.com/sibtain-iqbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="sibtain-iqbal" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sibtain-iqbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sibtain-iqbal" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sibtain-iqbal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sibtain-iqbal" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@sibtainiqbal8844" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sibtainiqbal8844" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/sibtain-iqbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sibtain-iqbal" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sibtain-iqbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sibtain-iqbal" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/https://www.hackerrank.com/profile/sibtainiqbal8844" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerrank.com/profile/sibtainiqbal8844" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sibtain-iqbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sibtain-iqbal" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/sibtain-iqbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="sibtain-iqbal" height="30" width="40" /></a>
-<a href="https://discord.gg/sibtain-iqbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sibtain-iqbal" height="30" width="40" /></a>
-<a href="/sibtain-iqbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="sibtain-iqbal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
